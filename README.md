@@ -3,8 +3,8 @@
 
 #### Alguns destaques:
 
-####- Java
-####- Python
-####- JavaScript
-####- HTML e CSS básicos
+### - Java
+### - Python
+### - JavaScript
+### - HTML e CSS básicos
 
