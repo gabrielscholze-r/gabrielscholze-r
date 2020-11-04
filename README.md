@@ -1,5 +1,5 @@
 ### Olá! Sou Gabriel Scholze
-### Estudo Ciência da Computação na PUC-PR
+### Estou no segundo período de Ciência da Computação na PUC-PR
 
 #### Alguns destaques:
 
