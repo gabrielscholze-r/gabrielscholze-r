@@ -1,5 +1,5 @@
 ### Olá! Sou Gabriel Scholze
-### Estou no segundo período de Ciência da Computação na PUC-PR
+### Estou no Terceiro período de Ciência da Computação na PUC-PR
 
 #### Alguns destaques:
 
@@ -7,4 +7,5 @@
 ### - Python
 ### - JavaScript
 ### - HTML e CSS básicos
+### - PM4PY - Process Mining for Python
 
