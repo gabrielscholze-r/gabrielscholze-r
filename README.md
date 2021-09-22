@@ -5,7 +5,7 @@
 ### CONHECIMENTOS:
 
 <div style="display: inline_block;"><br>
-  <img style="background-color:grey;" align="center" alt="Scholze-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Scholze-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Scholze-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Scholze-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Scholze-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,7 +13,7 @@
   <img align="center" alt="Scholze-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg"> 
   <img align="center" alt="Scholze-photoshop" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-plain.svg"> 
   <img align="center" alt="Scholze-premierepro" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/premierepro/premierepro-plain.svg"> 
-  <img align="center" alt="Scholze-SQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg"> 
+  <img align="center" alt="Scholze-SQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-plain-wordmark.svg"> 
   <img align="center" alt="Scholze-pandas" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original-wordmark.svg"> 
 </div>
   
