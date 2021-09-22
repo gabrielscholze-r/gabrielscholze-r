@@ -1,5 +1,5 @@
 ### Olá! Sou Gabriel Scholze
-### Estou no Terceiro período de Ciência da Computação na PUC-PR
+### Estou no Quarto período de Ciência da Computação na PUC-PR
 
 #### Alguns destaques:
 
