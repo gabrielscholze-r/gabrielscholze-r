@@ -8,4 +8,8 @@
 ### - JavaScript
 ### - HTML e CSS básicos
 ### - PM4PY - Process Mining for Python
+### - Simpy- Simulation with Python
+### - Pandas
+### - React
+### - SQL
 
