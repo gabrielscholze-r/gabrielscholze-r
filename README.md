@@ -10,7 +10,7 @@
   <img align="center" alt="Scholze-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Scholze-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Scholze-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-  <img align="center" alt="Scholze-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
+  <img align="center" alt="Scholze-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg"> 
 </div>
   
 ##
