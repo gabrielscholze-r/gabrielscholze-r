@@ -2,6 +2,8 @@
 
 🎓 Cursando Bacharelado em Ciência da Computação - PUCPR.
 #
+![Gabriel Scholze's GitHub stats](https://github-readme-stats.vercel.app/api? gabrielscholze-r=anuraghazra&hide=contribs,prs)
+#
 ### CONHECIMENTOS:
 
 <div style="display: inline_block; cursor:none;"><br>
