@@ -18,6 +18,10 @@
   <img align="center" alt="Scholze-premierepro" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/premierepro/premierepro-plain.svg"> 
   <img align="center" alt="Scholze-SQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-plain-wordmark.svg"> 
   <img align="center" alt="Scholze-pandas" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original-wordmark.svg"> 
+<img align="center" alt="Scholze-pandas" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"> 
+  <img align="center" alt="Scholze-pandas" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+</div>
+
 </div>
   
 ##
