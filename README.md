@@ -1,10 +1,7 @@
 ### Olá, bem vindo(a)! Eu sou o Gabriel Scholze! 👋
 
-🎓 Cursando Bacharelado em Ciência da Computação - PUCPR.
-#
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielscholze-r&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+🎓 Cientista da computação - PUCPR.
 
-#
 ### CONHECIMENTOS:
 
 <div style="display: inline_block; cursor:none;"><br>
