@@ -3,6 +3,7 @@
 [![Portfólio](https://img.shields.io/badge/Meu_Portfólio-0080FF?style=for-the-badge&logoColor=white)](https://gabrielscholze.tech)
 
 🎓 Bacharel em **Ciência da Computação** - PUCPR
+
 ⌛ Cursando **Pós-Graduação em Desenvolvimento de Aplicativos Móveis**
 
 ---
