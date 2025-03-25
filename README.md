@@ -1,32 +1,32 @@
-### Olá, bem vindo(a)! Eu sou o Gabriel Scholze! 👋
+# Gabriel Scholze 👨💻  
+**Desenvolvedor Fullstack | 3+ Anos de Experiência**  
+[![Portfólio](https://img.shields.io/badge/Meu_Portfólio-0080FF?style=for-the-badge&logoColor=white)](https://gabrielscholze.tech)
 
-🎓 Cientista da computação - PUCPR.
+🎓 Bacharel em **Ciência da Computação** - PUCPR
+⌛ Cursando **Pós-Graduação em Desenvolvimento de Aplicativos Móveis**
 
-### CONHECIMENTOS:
+---
 
-<div style="display: inline_block; cursor:none;"><br>
-  <img align="center" alt="Scholze-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Scholze-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Scholze-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Scholze-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Scholze-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-  <img align="center" alt="Scholze-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg"> 
-  <img align="center" alt="Scholze-photoshop" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-plain.svg"> 
-  <img align="center" alt="Scholze-premierepro" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/premierepro/premierepro-plain.svg"> 
-  <img align="center" alt="Scholze-SQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-plain-wordmark.svg"> 
-  <img align="center" alt="Scholze-pandas" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original-wordmark.svg"> 
-<img align="center" alt="Scholze-pandas" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"> 
-  <img align="center" alt="Scholze-pandas" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
-  <img align="center" alt="Scholze-pandas" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"> 
+### 🛠 Tecnologias Principais
+
+<div align="left" style="cursor: none;">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
 </div>
 
-</div>
-  
-##
-### CONTATOS:
-<div> 
-  <a href="https://www.instagram.com/_scholzee/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabrielscholze@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-scholze-rosa-28b9ab1b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://gabrielscholze.tech" target="blank"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</div>
+---
+
+### 📌 Destaques Profissionais
+
+[![Badge Portfólio](https://img.shields.io/badge/🚀_Ver_Projetos-3DDC84?style=flat-square&logo=vercel&logoColor=white)](https://gabrielscholze.tech)  
+Confira meus principais projetos e estudos de caso
+
+---
+
+### 📬 Contatos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-scholze-rosa-28b9ab1b2/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielscholze@gmail.com)
+[![Website](https://img.shields.io/badge/Portfólio-3DDC84?style=for-the-badge&logo=vercel&logoColor=white)](https://gabrielscholze.tech)
