@@ -20,9 +20,12 @@
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
 </div>
 
+---
+
 <div align="left" style="cursor: none;">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielscholze-r&show_icons=true&locale=en&layout=compact" alt="gabrielscholze-r" /></p>
 </div>
+
 ---
 
 ### 📌 Destaques Profissionais
