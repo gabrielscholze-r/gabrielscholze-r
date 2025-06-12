@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
 </div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielscholze-r&show_icons=true&locale=en&layout=compact" alt="gabrielscholze-r" /></p>
+
 ---
 
 ### 📌 Destaques Profissionais
